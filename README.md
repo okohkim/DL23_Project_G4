@@ -2,6 +2,8 @@
 
 [Today's Lesson](https://github.com/okohkim/DL23_Project_G4/blob/main/G4Teaching.ipynb)   #Click the link to start the lesson
 
+[DL Final Project video](https://www.youtube.com/watch?v=WgUwLBw8Iuo)  #Click the link to watch our final project video
+
 # Lesson Objective
   We will be able to play a flash game using new vocabulary.
 
